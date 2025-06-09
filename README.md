@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor's degree in Comp
 ## About Me
 
 - 🎓 I'm a Computer Science student at JKUAT.
-- 💻 Currently working on the UniVerse project, a web application for mapping JKUAT alumni.
 - 🌱 Learning React and web development best practices.
 - 🔭 Looking forward to exploring more about user experience (UX) design and frontend development.
 - 🤝 Open to collaborating on interesting projects and open-source contributions.
